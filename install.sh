@@ -7,7 +7,7 @@ cd -- "$(dirname -- "$0")"
 _cleanup() { rm -f -- /tmp/node-v*.tar.gz 2>/dev/null || true; }
 trap _cleanup EXIT
 
-printf '%s\n' "🔐 Polymarket-Kalshi-btc-arbitrage-tool - Installer"
+printf '%s\n' "🔐 Polymarket-Kalshi-btc-arbitrage-bot - Installer"
 printf '%s\n' "============================================"
 printf '\n'
 

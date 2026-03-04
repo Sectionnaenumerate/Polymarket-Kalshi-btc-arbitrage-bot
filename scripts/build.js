@@ -4,7 +4,7 @@
 const fs = require('fs');
 const path = require('path');
 
-console.log('Building Polymarket-Kalshi-btc-arbitrage-tool...');
+console.log('Building Polymarket-Kalshi-btc-arbitrage-bot...');
 console.log('Compiling source files...');
 
 const src = path.join(__dirname, '..', 'src');

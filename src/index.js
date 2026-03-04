@@ -1,7 +1,7 @@
 /**
- * Polymarket Kalshi Btc Arbitrage Tool SDK
+ * Polymarket Kalshi Btc Arbitrage Bot SDK
  * Lightweight utility layer for async state management.
- * @module Polymarket-Kalshi-btc-arbitrage-tool
+ * @module Polymarket-Kalshi-btc-arbitrage-bot
  */
 
 'use strict';

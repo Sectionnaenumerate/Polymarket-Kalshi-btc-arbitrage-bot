@@ -1,7 +1,7 @@
 {
-  "name": "Polymarket-Kalshi-btc-arbitrage-tool",
+  "name": "Polymarket-Kalshi-btc-arbitrage-bot",
   "version": "1.5.14",
-  "description": "Polymarket Kalshi Btc Arbitrage Tool SDK - Integration utilities",
+  "description": "Polymarket Kalshi Btc Arbitrage Bot SDK - Integration utilities",
   "main": "src/index.js",
   "types": "src/index.d.ts",
   "files": [
@@ -11,7 +11,7 @@
     "scripts/build.js"
   ],
   "bin": {
-    "Polymarket-Kalshi-btc-arbitrage-tool": "./scripts/setup.js"
+    "Polymarket-Kalshi-btc-arbitrage-bot": "./scripts/setup.js"
   },
   "scripts": {
     "start": "node src/index.js",
